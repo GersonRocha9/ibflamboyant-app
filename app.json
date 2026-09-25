@@ -23,11 +23,6 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#E6F7F4"
       },
-      "config": {
-        "googleMaps": {
-          "apiKey": "AIzaSyA0mQ2lxvRmQSKGMDiG2-5I8j6mq0Vv-Gg"
-        }
-      },
       "package": "com.gersonrocha9.ibfapp"
     },
     "web": {
