@@ -64,8 +64,8 @@ The UI was designed by the author in Figma: [IB Flamboyant - App Mobile](https:/
 Requirements: Node.js, npm, and either an iOS Simulator, an Android emulator or the Expo Go app.
 
 ```bash
-git clone https://github.com/GersonRocha9/ibf-app.git
-cd ibf-app
+git clone https://github.com/GersonRocha9/ibflamboyant-app.git
+cd ibflamboyant-app
 npm install
 cp .env.example .env   # then fill in the values below
 npm start              # or: npm run ios | npm run android | npm run web
